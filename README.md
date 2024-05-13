@@ -1,2 +1,2 @@
-sorteador-de-numeros-q2ipbdd96.vercel.app
+sorteador-de-numeros-j6tz-hrnjgo7xo.vercel.app
 LINK DO SORTEADOR
